@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/rhtap_qe/nodejs-gvrftwmh:e21cbb457c0329269ac8f9d6d00fa402232a7aba@sha256:c33c65b37e8f5f95cfbda1cf392d1a807252e548e7aacf9de583cdde29ed6d48
+        - image: quay.io/rhtap_qe/nodejs-gvrftwmh:a4feff8812b320d29516579e351ca01c512e9155@sha256:be81beb5214b58d751b1f3bf438600c0a1801db46fe831d980a3a25fc95f5734
           name: container-image
